@@ -1,0 +1,2 @@
+print ("hello gojo")
+print("hello jojo")
